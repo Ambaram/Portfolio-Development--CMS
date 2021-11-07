@@ -1,6 +1,6 @@
 ## Portfolio-Development--CMS
 
-Credentials to login : 
-email: ambaramsrivastava@gmail.com
-pass: Ambara@2202
+### Credentials to login : 
+-[x] email: ambaramsrivastava@gmail.com
+-[x] pass: Ambara@2202
 
